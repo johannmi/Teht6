@@ -11,6 +11,7 @@ import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
     public static final String EXTRA = "TEHT6_MESSAGE";
+    // WAH
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
